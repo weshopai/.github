@@ -1,1 +1,1 @@
-## Hello, Welcome to WeShop AI! 👋
+## Welcome to the WeShop AI organization! 👋
